@@ -81,3 +81,5 @@ $RECYCLE.BIN/
 *.lnk
 *.lock
 .vs/DumbGame/v15/Server/sqlite3/storage.ide
+# Useless archives
+.7z
