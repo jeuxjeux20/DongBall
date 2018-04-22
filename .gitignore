@@ -79,3 +79,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.lock
+.vs/DumbGame/v15/Server/sqlite3/storage.ide
